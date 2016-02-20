@@ -1,5 +1,3 @@
 # Converge
 
-Description needed.
-# Future Features
- * None at the moment.
+App to find the halfway of users.
